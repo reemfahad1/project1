@@ -21,7 +21,7 @@ All you need is to run these commands:
 
 (*Assuming you've [installed Laravel](https://laravel.com/docs/8.x/installation)*)
 ```bash
-git clone https://github.com/kossa/laradminator.git
+git clone https://github.com/reemfahad1/project1.git
 
 cd project1
 
